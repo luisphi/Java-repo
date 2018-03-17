@@ -38,3 +38,14 @@ public static void main(String[] args) {
 	}
 }
 ```
+
+## Convertir de un número a letras
+Esta clase es útil para rellenar cheques impresos desde un sistema. Usar la clase "NumberToLetter_Test.java" para probar el funcionamiento enviando el valor desde el constructor.
+
+```
+public static void main(String[] args) {public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	NumberToLetter convertir = new NumberToLetter(1234.56);		
+	convertir.converToLetter();
+}
+```
