@@ -7,6 +7,12 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author Luis Paz y Miño.
+ * @description Llamada a clase enviando los datos de rutas de entrada y salida
+ */
+
 public class MergePDF_Test {
 
 	public static void main(String[] args) {

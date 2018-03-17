@@ -3,7 +3,7 @@ package me.luisphi.dni_ec;
 /**
  * 
  * @author Luis Paz y Miño.
- *@description Llamada a clase para verificación de dni
+ * @description Llamada a clase para verificación de dni
  */
 
 public class DniEcuador_Test {

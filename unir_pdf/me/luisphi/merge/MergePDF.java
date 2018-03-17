@@ -14,6 +14,12 @@ import com.lowagie.text.pdf.PdfImportedPage;
 import com.lowagie.text.pdf.PdfReader;
 import com.lowagie.text.pdf.PdfWriter;
 
+/**
+ * 
+ * @author Luis Paz y Miño.
+ * @description La clase usa la librería itext-4.2.0.jar, en caso de error debe referenciarla al proyecto.
+ */
+
 public class MergePDF {
 	List<InputStream> streamOfPDFFiles = new ArrayList<InputStream>();
 	OutputStream outputStream;

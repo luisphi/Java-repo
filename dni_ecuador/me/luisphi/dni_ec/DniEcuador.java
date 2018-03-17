@@ -3,7 +3,7 @@ package me.luisphi.dni_ec;
 /**
  * 
  * @author Luis Paz y Miño.
- * @description Regla de validación para DNI (Cédula o RUC) Ecuador
+ * @description Regla de validación para DNI (Cédula o RUC) Ecuador.
  */
 
 public class DniEcuador {
