@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="dni_ecuador"/>
 	<classpathentry kind="src" path="unir_pdf"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="unir_pdf/lib/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="unir_pdf/me/luisphi/merge/itext-4.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
