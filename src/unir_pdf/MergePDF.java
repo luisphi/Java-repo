@@ -1,4 +1,4 @@
-package me.luisphi.merge_pdf;
+package unir_pdf;
 
 import java.io.IOException;
 import java.io.InputStream;
