@@ -1,4 +1,4 @@
-package dni_ec;
+package me.luisphi.dni_ec;
 
 /**
  * 
