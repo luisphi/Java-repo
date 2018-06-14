@@ -7,5 +7,6 @@
 	<classpathentry kind="src" path="encript_des"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="unir_pdf/me/luisphi/merge/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
