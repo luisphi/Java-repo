@@ -1,5 +1,3 @@
-package me.luisphi.files;
-
 import java.io.File;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

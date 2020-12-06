@@ -1,4 +1,9 @@
-package me.luisphi.files;
+/**
+ * 
+ * @author luispazymino
+ * @description Clase con los datos de un archivo
+ *
+ */
 
 public class Info_File {
 	String name;

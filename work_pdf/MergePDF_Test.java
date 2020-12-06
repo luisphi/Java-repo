@@ -1,5 +1,3 @@
-package me.luisphi.merge;
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;
@@ -30,7 +28,7 @@ public class MergePDF_Test {
 			MergePDF merge = new MergePDF(pdfs, output, true);
 			merge.concatPDFs();
 		} catch (Exception e) {
-			System.out.println("REVISE QUE LOS DOCUMENTOS A UNIR SE ENCUENTREN LA CARPETA ESPECIFICADA");
+			System.out.println("REVISE QUE LOS DOCUMENTOS A UNIR SE ENCUENTREN EN LA CARPETA ESPECIFICADA");
 			e.printStackTrace();
 		}
 	}

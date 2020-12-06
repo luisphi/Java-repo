@@ -1,5 +1,3 @@
-package me.luisphi.merge;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -37,6 +35,7 @@ public class MergePDF {
 	 * Método para concatenación de documentos pdf, usando librerias iText
 	 * El resultado se constata revisando el nuevo archivo generado en la ruta de outputStream
 	 */
+	@SuppressWarnings("unused")
 	public void concatPDFs() {
 		Document document = new Document();
 		try {

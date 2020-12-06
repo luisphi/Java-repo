@@ -1,5 +1,3 @@
-package me.luisphi.dni_ec;
-
 /**
  * 
  * @author Luis Paz y Miño.
