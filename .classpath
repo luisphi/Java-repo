@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="dni_ecuador"/>
-	<classpathentry kind="src" path="work_pdf"/>
-	<classpathentry kind="src" path="number_letter"/>
-	<classpathentry kind="src" path="list_folder"/>
+	<classpathentry kind="src" path="001-dni_ecuador"/>
+	<classpathentry kind="src" path="002-work_pdf"/>
+	<classpathentry kind="src" path="003-number_letter"/>
+	<classpathentry kind="src" path="004-list_folder"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
