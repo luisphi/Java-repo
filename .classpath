@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="002-work_pdf"/>
 	<classpathentry kind="src" path="003-number_letter"/>
 	<classpathentry kind="src" path="004-list_folder"/>
+	<classpathentry kind="src" path="005-hilos"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
