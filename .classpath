@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="dni_ecuador"/>
-	<classpathentry kind="src" path="unir_pdf"/>
+	<classpathentry kind="src" path="work_pdf"/>
 	<classpathentry kind="src" path="number_letter"/>
-	<classpathentry kind="src" path="listar_archivos"/>
-	<classpathentry kind="src" path="encript_des"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="unir_pdf/me/luisphi/merge/itext-4.2.0.jar"/>
-	<classpathentry kind="lib" path="libs/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="src" path="list_folder"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/itext-4.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
