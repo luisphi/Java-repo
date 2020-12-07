@@ -3,10 +3,10 @@ package chat_api;
 public class Test {
 
 	public static void main(String[] args) {
-		String phone = "593979171837";
+		String phone = "593979171844";
 		String menssage = "Mensaje enviado hacia whatsapp";
 		
-		Whatsapp wsp = new Whatsapp("hry4ar9py8h6oz3o", "https://api.chat-api.com/instance193736/");
+		Whatsapp wsp = new Whatsapp("hry4arh6oz3o", "https://api.chat-api.com/instance1937/");
 		
 		
 		// OBETENER INFORMACION DE LA INSTANCIA, EN ESPECIAL SI ESTA AUTENTIFICADA
