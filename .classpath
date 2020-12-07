@@ -6,7 +6,8 @@
 	<classpathentry kind="src" path="004-list_folder"/>
 	<classpathentry kind="src" path="005-hilos"/>
 	<classpathentry kind="src" path="006-gson_test"/>
-	<classpathentry kind="src" path="007-String_text"/>
+	<classpathentry kind="src" path="007-string_array"/>
+	<classpathentry kind="src" path="008-integrations"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -14,5 +15,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="libs/itext-4.2.0.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/infobip-api-java-client-1.1.2-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
