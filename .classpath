@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="001-dni_ecuador"/>
-	<classpathentry kind="src" path="002-work_pdf"/>
-	<classpathentry kind="src" path="003-number_letter"/>
-	<classpathentry kind="src" path="004-list_folder"/>
-	<classpathentry kind="src" path="005-hilos"/>
-	<classpathentry kind="src" path="006-gson_test"/>
-	<classpathentry kind="src" path="007-string_array_date"/>
-	<classpathentry kind="src" path="008-integrations"/>
-	<classpathentry kind="src" path="009-contifico"/>
+	<classpathentry kind="src" path="01-dni_ecuador"/>
+	<classpathentry kind="src" path="02-work_pdf"/>
+	<classpathentry kind="src" path="03-number_letter"/>
+	<classpathentry kind="src" path="04-list_folder"/>
+	<classpathentry kind="src" path="05-hilos"/>
+	<classpathentry kind="src" path="06-gson_test"/>
+	<classpathentry kind="src" path="07-string_array_date"/>
+	<classpathentry kind="src" path="08-integrations"/>
+	<classpathentry kind="src" path="09-contifico"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
