@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		String phone = "593979171844";
-		String menssage = "Mensaje enviado hacia whatsapp";
+		String menssage = "Mensaje enviado hacia whatsapp desde chat-api";
 		
 		Whatsapp wsp = new Whatsapp("hry4arh6oz3o", "https://api.chat-api.com/instance1937/");
 		
