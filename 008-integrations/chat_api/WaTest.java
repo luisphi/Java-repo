@@ -1,6 +1,6 @@
 package chat_api;
 
-public class Test {
+public class WaTest {
 
 	public static void main(String[] args) {
 		String phone = "593979171844";
