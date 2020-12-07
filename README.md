@@ -19,7 +19,7 @@ Recopilación de código en java usado en otros proyectos y que se pude usar com
 ### Pruebas con la librería Gson (006-gson_test)
 - Pruebas de la librería Gson para trabajo con Json en java
 
-### Pequeños scripts usando Cadenas de texto (007-string_array)
+### Pequeños scripts usando Cadenas de texto (007-string_array_date)
 - Scripts pequeños con funciones pedidas
 
 ### Integraciones con herramientas externas (008-integratios)
