@@ -8,6 +8,7 @@
 	<classpathentry kind="src" path="006-gson_test"/>
 	<classpathentry kind="src" path="007-string_array_date"/>
 	<classpathentry kind="src" path="008-integrations"/>
+	<classpathentry kind="src" path="009-contifico"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>

@@ -9,12 +9,8 @@ import java.util.Base64;
 public class JsonBase64 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-		
-
-		JsonObject jsonBody = new JsonObject();
-		String url = "https://services.habitanto.com/meet/start.html?token=";
+		JsonObject jsonBody = new JsonObject();		
 		String token_anfitrion = "";
 		String token_invitado = "";
 
