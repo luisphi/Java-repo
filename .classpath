@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="libs/gson-2.8.0.jar"/>
 	<classpathentry kind="lib" path="libs/infobip-api-java-client-1.1.2-jar-with-dependencies.jar"/>
 	<classpathentry kind="lib" path="libs/twilio-java-sdk-5.8.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
